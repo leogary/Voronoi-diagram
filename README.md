@@ -1,1 +1,1 @@
-# voronoidiagram
+# Voronoi diagram
